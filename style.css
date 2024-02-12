@@ -41,8 +41,9 @@ ul.menu{
 }
 
 .col{
-    color: hwb(0 12% 39%);
-    font-weight: 500;
+        color:  #ff004f;
+        
+    font-weight: 600;
 }
 
 .slider{
